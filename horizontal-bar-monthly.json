@@ -1,0 +1,7 @@
+[
+    {"name": "USER", "value": 80000},
+    {"name": "DEVICE ", "value": 23000},
+    {"name": "NETWORK ", "value": 40000},
+    {"name": "APP ", "value": 70000},
+    {"name": "DATA ", "value": 30000}
+]
